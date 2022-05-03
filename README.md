@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm @DESC0N0C1D0</h1>
+<h1 align="center">Hi 👋, @DESC0N0C1D0</h1>
 <h3 align="center">A passionate backend developer</h3>
 <h3 align="center"> 🧑‍🎓I’m currently study Systems engineering</h3>
-🌱 I’m currently Angular
+🌱 I’m currently learning Angular
 <p align="left">
 </p>
 
