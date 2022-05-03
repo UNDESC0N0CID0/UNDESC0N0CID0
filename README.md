@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, @DESC0N0C1D0</h1>
 <h3 align="center">A passionate backend developer</h3>
-<h3 align="center"> 🧑‍🎓I’m currently study Systems engineering</h3>
+<h3 align="center"> 🧑‍🎓I’m currently Studying Systems engineering</h3>
 🌱 I’m currently learning Angular
 <p align="left">
 </p>
