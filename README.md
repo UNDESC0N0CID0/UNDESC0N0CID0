@@ -18,3 +18,12 @@
 ![Desconocido GitHub stats](https://github-readme-stats.vercel.app/api?username=UNDESC0N0CID0&theme=github_dark&show_icons=true)
 
 ![Desconocido Duolingo stats](https://api-rest-stats-duolingo.herokuapp.com/usuario)
+
+
+<a href="https://www.linkedin.com/in/rickstaa#gh-light-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.linkedin.com/in/rickstaa#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+</a>
