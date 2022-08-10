@@ -12,4 +12,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNDESC0N0CID0&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+
+![Desconocido GitHub stats](https://github-readme-stats.vercel.app/api?username=UNDESC0N0CID0&theme=github_dark&show_icons=true)
+
 ![Desconocido Duolingo stats](https://api-rest-stats-duolingo.herokuapp.com/usuario)
