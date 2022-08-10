@@ -11,9 +11,4 @@
 ![Desconocido GitHub stats](https://github-readme-stats.vercel.app/api?username=UNDESC0N0CID0&theme=github_dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNDESC0N0CID0&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://api-rest-stats-duolingo.herokuapp.com/D3SC0N0C1D0)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin](https://api-rest-stats-duolingo.herokuapp.com/?user=D3SC0N0C1D0)](https://github.com/anuraghazra/github-readme-stats)
