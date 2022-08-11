@@ -12,7 +12,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNDESC0N0CID0&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://raw.githubusercontent.com/UNDESC0N0CID0/host-img/e7daec6d642002c405f54c69a182fe23e101df7d/stats.svg" alt="Duolingo stats" >
 <img class="img-fluid img" src="https://github.com/UNDESC0N0CID0/host-img/blob/main/stats.svg" alt="">
 
 
