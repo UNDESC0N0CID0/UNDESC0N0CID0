@@ -12,6 +12,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNDESC0N0CID0&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://api-rest-stats-duolingo.herokuapp.com/D3SC0N0C1D0" alt="Connect with me on linkedin" >
+<img src="https://s172.convertio.me/p/xitBYdsIpH7efSVV2tdCHA/273402d5e30b0d5e58f9201499f17244/duolingo.webp" alt="Duolingo stats" >
 
 
