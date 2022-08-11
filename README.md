@@ -20,3 +20,6 @@
 <a href="https://www.linkedin.com/in/rickstaa#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
+<img src="https://api-rest-stats-duolingo.herokuapp.com/D3SC0N0C1D0" alt="Connect with me on linkedin" >
+
+
