@@ -12,7 +12,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNDESC0N0CID0&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Anurag's GitHub stats](https://api-rest-stats-duolingo.herokuapp.com/D3SC0N0C1D0)
+<a href="https://www.linkedin.com/in/rickstaa#gh-light-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.linkedin.com/in/rickstaa#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+</a>
