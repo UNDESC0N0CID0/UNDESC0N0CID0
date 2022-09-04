@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,I'm @UNDESC0N0CID0</h1>
 <h3 align="center">A passionate backend developer.</h3>
 <h3 align="center">🧑‍🎓Currently Studying Systems engineering.</h3>
-🌱 Currently learning Angular.
+🌱 Currently learning React.
 <p align="left">
 </p>
 
