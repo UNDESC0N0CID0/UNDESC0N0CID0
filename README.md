@@ -11,7 +11,6 @@
 ![Desconocido GitHub stats](https://github-readme-stats.vercel.app/api?username=UNDESC0N0CID0&theme=github_dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNDESC0N0CID0&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=UNDESC0N0CID0)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/UNDESC0N0CID0)  
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=UNDESC0N0CID0&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="UNDESC0N0CID0" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=UNDESC0N0CID0&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="UNDESC0N0CID0" /> </p>
