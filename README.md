@@ -14,3 +14,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=UNDESC0N0CID0)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/UNDESC0N0CID0)  
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=UNDESC0N0CID0&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="UNDESC0N0CID0" /> </p>
