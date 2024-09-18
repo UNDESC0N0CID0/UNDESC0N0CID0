@@ -10,4 +10,7 @@
 ![Desconocido GitHub stats](https://github-readme-stats.vercel.app/api?username=UNDESC0N0CID0&theme=github_dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNDESC0N0CID0&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p> <img src="https://komarev.com/ghpvc/?username=UNDESC0N0CID0&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="UNDESC0N0CID0" /> </p>
+
+<a href="https://info.flagcounter.com/1MWc"><img src="https://s11.flagcounter.com/countxl/1MWc/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_16/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+<!-- <p> <img src="https://komarev.com/ghpvc/?username=UNDESC0N0CID0&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="UNDESC0N0CID0" /> </p> -->
